@@ -1,0 +1,16 @@
+git init
+
+echo "# se-day5-assignment-Medelinas">>README.md
+
+git add README.md
+
+git commit -m"first commit"
+
+git branch -M main
+
+git remote add origin
+https://github.com/Powerlearnproject/se-day5-assignment-Medelinas.git
+
+git push -u origin main
+
+
